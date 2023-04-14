@@ -1,4 +1,4 @@
-#Vending Machine App
+# Vending Machine App
 
 ## Requirements
 > - Java Version : 17
